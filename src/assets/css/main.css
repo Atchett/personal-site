@@ -1952,7 +1952,7 @@ ul.actions li:first-child {
   text-rendering: auto;
   line-height: 1;
   text-transform: none !important;
-  font-family: "Font Awesome 5 Free";
+  /* font-family: "Font Awesome 5 Free"; */
   font-weight: 400;
 }
 
@@ -1960,9 +1960,9 @@ ul.actions li:first-child {
   font-weight: 900;
 }
 
-.icon.brands:before {
+/* .icon.brands:before {
   font-family: "Font Awesome 5 Brands";
-}
+} */
 
 .icon:before {
   line-height: inherit;
@@ -2327,9 +2327,11 @@ body.is-preload #wrapper {
 }
 
 /* Social media page */
-
 #social a {
   color: #575757;
+}
+#social a span {
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 #social .icon:before {
