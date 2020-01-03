@@ -1494,7 +1494,7 @@ html {
 }
 
 body {
-  background-image: url("../../images/overlay.png"), url("../../images/bg.jpg");
+  background-image: url("../../images/overlay.png"), url("../../images/bg1.jpg");
   background-repeat: repeat, no-repeat;
   background-size: auto, 100% 100%;
   background-attachment: fixed;
@@ -2324,31 +2324,6 @@ body.is-preload #wrapper {
     font-size: 1em;
     margin: 0.25em 0 0 0;
   }
-}
-
-/* Social media page */
-#social a {
-  color: #575757;
-}
-#social a span {
-  font-family: "Source Sans Pro", sans-serif;
-}
-
-#social .icon:before {
-  padding-right: 10px;
-  font-size: 1.5em;
-}
-
-#social .icon.fa-twitter:hover {
-  color: #00b6f1;
-}
-
-#social .icon.fa-facebook:hover {
-  color: #3b5998;
-}
-
-#social .icon.fa-instagram:hover {
-  color: #3b5998;
 }
 
 /* Footer */
