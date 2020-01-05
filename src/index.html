@@ -32,7 +32,7 @@
 	<script src="https://kit.fontawesome.com/92157c0404.js" crossorigin="anonymous" async></script>
 </head>
 
-<body class="is-preload">
+<body class="is-preload" data-instant-allow-query-string>
 
 	<!-- Wrapper-->
 	<div id="wrapper">
@@ -241,7 +241,7 @@
 						hearing from you.
 					</p>
 				</header>
-				<form name="contact" method="POST" data-netlify="true" action="/#success">
+				<form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true" action="/#success">
 					<div>
 						<div class="row">
 							<div class="col-6 col-12-medium">
@@ -260,6 +260,7 @@
 								<label for="message">Message</label>
 								<textarea id="message" name="message" placeholder="" rows="6"></textarea>
 							</div>
+							<div data-netlify-recaptcha="true"></div>
 							<div class="col-12">
 								<input type="submit" value="Send Message" />
 							</div>
@@ -520,7 +521,8 @@
 	<script src="assets/js/breakpoints.min.js"></script>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
-
+	<script src="//instant.page/3.0.0" type="module" defer
+		integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
 </body>
 
 </html>
