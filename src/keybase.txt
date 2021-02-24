@@ -1,0 +1,57 @@
+atchett
+==================================================================
+https://keybase.io/atchett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://johnspurgin.com
+  * I am atchett (https://keybase.io/atchett) on keybase.
+  * I have a public key ASDiUU02K1LkjEI5mbnfBFgv5tNcBgvM3nJrORoBh5AaZgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e2514d362b52e48c423999b9df04582fe6d35c060bccde726b391a0187901a660a",
+      "host": "keybase.io",
+      "kid": "0120e2514d362b52e48c423999b9df04582fe6d35c060bccde726b391a0187901a660a",
+      "uid": "35947e1a3ef5046ed836567106dd9e19",
+      "username": "atchett"
+    },
+    "merkle_root": {
+      "ctime": 1614191631,
+      "hash": "1fb50a6178409821c04dde121c3eaeb953adef76b221805b7ae3da00fac87b17a9e4e5a9544186091ff4b39d1f84f9b6ff12816ed8ac6940cff4739f0d4df15f",
+      "hash_meta": "294afec461046fdbd33c3e073aaef6ee069b5d0bc2bb6c843b683216ff3df2da",
+      "seqno": 19211998
+    },
+    "service": {
+      "entropy": "Zw6gftujjkQyEQSu3QLEbvFU",
+      "hostname": "johnspurgin.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1614191675,
+  "expire_in": 504576000,
+  "prev": "4c7a28bc6e77b5ba4b09908e4022a5e836b664a6ee056f698ff0bac0e33dd7b4",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4lFNNitS5IxCOZm53wRYL+bTXAYLzN5yazkaAYeQGmYKp3BheWxvYWTESpcCDMQgTHoovG53tbpLCZCOQCKl6Da2ZKbuBW9pj/C6wOM917TEIOLG7W8R6vr+uS9e3oZWzFPmYyG5/opZNtKlAMdORqQVAgHCo3NpZ8RAZxb0rJEQTBVZKeZpBoszd9LKibgfEwxu38iN7Lc4cfpMPXzjn05NtjJp/ArCv+8cM+RPJC/5lN+vKFZQ6uoxBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIz7bX8FuS5M9edxZhEUpn3BYpkRmHkiEXn3PdHt/JO4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/atchett
+
+==================================================================
